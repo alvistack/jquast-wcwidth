@@ -51,8 +51,6 @@ def main():
             _get_here('README.rst'), 'rb', 'utf8').read(),
         author='Jeff Quast',
         author_email='contact@jeffquast.com',
-        install_requires=('backports.functools-lru-cache>=1.2.1;'
-                          'python_version < "3.2"'),
         license='MIT',
         packages=['wcwidth'],
         url='https://github.com/jquast/wcwidth',

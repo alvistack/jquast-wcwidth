@@ -1,0 +1,5 @@
+python-wcwidth (100:0.3.5-1) UNRELEASED; urgency=medium
+
+  * https://github.com/jquast/wcwidth/releases/tag/0.3.5
+
+ -- Wong Hoi Sing Edison <hswong3i@pantarei-design.com>  Sun, 25 Jan 2026 14:36:29 +0800

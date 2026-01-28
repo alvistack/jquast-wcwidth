@@ -1,0 +1,5 @@
+python-wcwidth source: file-without-copyright-information
+python-wcwidth source: no-debian-changes
+python-wcwidth source: source-contains-prebuilt-windows-binary
+python-wcwidth source: source-is-missing
+python-wcwidth source: source-package-encodes-python-version
